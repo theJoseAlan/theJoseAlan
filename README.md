@@ -1,10 +1,11 @@
 ### Olá, sou José Alan 👋
 
 
-- 🌱 Estudando Java
-- 📫 email: salesalan854@gmail.com / whatsapp: (88)988695336
+- 🌱 Estudando Java <br>
+- 📫 email: salesalan854@gmail.com <br>
+- 📞 whatsapp: (88)988695336 <br>
 - 😄 Pronouns: Ele/Dele
------------------------------------------
+---
 <div align="center">
   <a href="https://github.com/theJoseAlan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theJoseAlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
