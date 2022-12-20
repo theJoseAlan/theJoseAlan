@@ -42,7 +42,7 @@ Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde,
   <img align="center" alt="Alan-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 <br>
-**---------------☎ Contatos 📱---------------**
+  <b>---------------☎ Contatos 📱---------------</b>
 <div> 
   <a href="https://instagram.com/jose_alan.4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:salesalan854@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
