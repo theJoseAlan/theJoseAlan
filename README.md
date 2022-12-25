@@ -14,13 +14,14 @@ Em 2016, no 1° ano, vimos C++, no 2° estudamos HTML, CSS, JavaScript e PHP, no
 Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde, organizado pela mesttra, Johnson&Johnson e Distrito. Essa academia elevou meu nível de programação a um patamar queb jamais imaginei. Em 5 meses aprendi várias outras softskills e como o foco é a linguagem Java, descobri o poder que ela tem de transformar pensamentos em códigos, em programas e em transformação de vida! Agora, com essa linguagem de programação eu quero dar um start na minha carreira e um upgrade na vida das pessoas que amo!
 
 ---
-
+<p align="center">
   <a href="https://github.com/theJoseAlan"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theJoseAlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theJoseAlan&layout=compact&langs_count=7&theme=dracula"/><br>
+    </p>
 
----
-**------------🧐 Habilidades 🤓--------------**
+
+------------🧐 Habilidades 🤓--------------
 
   <img align="center" alt="Alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-
   <img align="center" alt="Alan-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> - 
