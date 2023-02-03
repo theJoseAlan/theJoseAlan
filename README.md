@@ -11,7 +11,7 @@ Tenho 22 anos, sou piauiense e apaixonado por tecnologia desde muito jovem. Quan
 <br><br>
 Em 2016, no 1° ano, vimos C++, no 2° estudamos HTML, CSS, JavaScript e PHP, no 3° nos debruçamos em Java e Banco de dados. A cada final de ano, apresentavámos um projeto final relacionado à linguagem que aprendemos durante o ano. Além das hardskills, estudamos metodologias ágeis e organização de projetos. Foi com essa construção que compreendi meu lugar no mundo e ele estava atrelado ao desenvolvimento de sistemas.
 <br><br>
-Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde, organizado pela mesttra, Johnson&Johnson e Distrito. Essa academia elevou meu nível de programação a um patamar queb jamais imaginei. Em 5 meses aprendi várias outras softskills e como o foco é a linguagem Java, descobri o poder que ela tem de transformar pensamentos em códigos, em programas e em transformação de vida! Agora, com essa linguagem de programação eu quero dar um start na minha carreira e um upgrade na vida das pessoas que amo!
+Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde, organizado pela mesttra, Johnson&Johnson e Distrito. Essa academia elevou meu nível de programação a um patamar que jamais imaginei. Em 5 meses aprendi várias outras softskills e como o foco é a linguagem Java, descobri o poder que ela tem de transformar pensamentos em códigos, em programas e em transformação de vidas! Agora, com essa linguagem de programação eu quero dar um start na minha carreira e um upgrade na vida das pessoas que amo!
 
 ---
 <p align="center">
