@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ele/Dele
 ---
 ####   Sobre mim: <br>
-Tenho 22 anos, sou piauiense e apaixonado por tecnologia desde muito jovem. Quando criança, gostava de abrir aparelhos eletrônicos e investigar cada peça e circuito, já que nunca tive computador, celular tão menos internet. Tive meu primeiro contato com internet aos 15 anos e com 16 entrei em uma escola de ensino médio em tempo intengral onde oferenciam quatro cursos, dentre eles o curso técnico de informática no qual fiz minha matricula. 
+Tenho 22 anos, sou piauiense e apaixonado por tecnologia desde muito jovem. Quando criança, gostava de abrir aparelhos eletrônicos e investigar cada peça e circuito, já que nunca tive computador, celular tão menos internet. Tive meu primeiro contato com internet aos 15 anos e com 16 entrei em uma escola de ensino médio em tempo integral onde oferenciam quatro cursos, dentre eles o curso técnico de informática no qual fiz minha matricula. 
 <br><br>
 Em 2016, no 1° ano, vimos C++, no 2° estudamos HTML, CSS, JavaScript e PHP, no 3° nos debruçamos em Java e Banco de dados. A cada final de ano, apresentavámos um projeto final relacionado à linguagem que aprendemos durante o ano. Além das hardskills, estudamos metodologias ágeis e organização de projetos. Foi com essa construção que compreendi meu lugar no mundo e ele estava atrelado ao desenvolvimento de sistemas.
 <br><br>
