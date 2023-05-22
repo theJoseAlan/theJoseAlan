@@ -33,6 +33,7 @@ Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde,
   - [x] Hibernate
   - [x] JPA
   - [x] Spring
+  - [x] JUnit
 ---
 **--------------🛠 Ferramentas 🛠--------------**
 <div style="display: inline_block">
