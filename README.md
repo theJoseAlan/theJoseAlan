@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ele/Dele
 ---
 ####   Sobre mim: <br>
-Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão pela programação. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Recentemente, participei da academia 1000Devs, onde expandi meu conhecimento técnico e desenvolvi habilidades pessoais. Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
+Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão por tecnologia. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Recentemente, participei da academia 1000Devs, onde expandi meu conhecimento técnico e desenvolvi habilidades pessoais. Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
 
 ---
 <p align="center">
