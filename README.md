@@ -7,11 +7,7 @@
 - 😄 Pronouns: Ele/Dele
 ---
 ####   Sobre mim: <br>
-Tenho 22 anos, sou piauiense e apaixonado por tecnologia desde muito jovem. Quando criança, gostava de abrir aparelhos eletrônicos e investigar cada peça e circuito, já que nunca tive computador, celular tão menos internet. Tive meu primeiro contato com internet aos 15 anos e com 16 entrei em uma escola de ensino médio em tempo integral onde oferenciam quatro cursos, dentre eles o curso técnico de informática no qual fiz minha matricula. 
-<br><br>
-Em 2016, no 1° ano, vimos C++, no 2° estudamos HTML, CSS, JavaScript e PHP, no 3° nos debruçamos em Java e Banco de dados. A cada final de ano, apresentavámos um projeto final relacionado à linguagem que aprendemos durante o ano. Além das hardskills, estudamos metodologias ágeis e organização de projetos. Foi com essa construção que compreendi meu lugar no mundo e ele estava atrelado ao desenvolvimento de sistemas.
-<br><br>
-Em Agosto de 2022 entrei para a academia 1000Devs talentos para o bem na saúde, organizado pela mesttra, Johnson&Johnson e Distrito. Essa academia elevou meu nível de programação a um patamar que jamais imaginei. Em 5 meses aprendi várias outras softskills e como o foco é a linguagem Java, descobri o poder que ela tem de transformar pensamentos em códigos, em programas e em transformação de vidas! Agora, com essa linguagem de programação eu quero dar um start na minha carreira e um upgrade na vida das pessoas que amo!
+Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão pela programação. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Recentemente, participei da academia 1000Devs, onde expandi meu conhecimento técnico e desenvolvi habilidades pessoais. Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
 
 ---
 <p align="center">
