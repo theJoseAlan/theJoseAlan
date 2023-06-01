@@ -23,7 +23,7 @@ Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosida
   <img align="center" alt="Alan-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> - 
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 * Java:
-  - [x] Programação Orientada a Objetos
+  - [x] P.O.O
   - [x] JDBC
   - [x] Maven
   - [x] Hibernate
