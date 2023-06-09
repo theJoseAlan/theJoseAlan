@@ -12,8 +12,8 @@ Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosida
 ---
 <p align="center">
   <a href="https://github.com/theJoseAlan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theJoseAlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&title_color=0366d6&text_color=ffffff&icon_color=0366d6&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theJoseAlan&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=00000000&title_color=0366d6&text_color=ffffff" /><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theJoseAlan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000&title_color=0366d6&text_color=ffffff&icon_color=0366d6&hide_border=true" style="border: 2px solid #0366d6; border-radius: 5px; overflow: hidden;" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theJoseAlan&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=00000000&title_color=0366d6&text_color=ffffff" style="border: 2px solid #0366d6; border-radius: 5px; overflow: hidden;" /><br>
   </a>
 </p>
 
