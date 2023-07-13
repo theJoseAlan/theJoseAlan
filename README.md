@@ -1,7 +1,7 @@
 ### Olá, sou José Alan 👋
 
 
-- 🌱 Estudando Java <br>
+- 🌱 Estudando Java | JavaScript | Python <br>
 - 📫 email: salesalan854@gmail.com <br>
 - 📞 whatsapp: (88)988695336 <br>
 - 😄 Pronouns: Ele/Dele
