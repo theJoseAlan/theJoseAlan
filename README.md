@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Java | JavaScript | Python <br>
 - 📫 email: salesalan854@gmail.com <br>
-- 📞 whatsapp: (88)988695336 <br>
+- 📞 whatsapp: (88)988685055 <br>
 - 😄 Pronouns: Ele/Dele
 ---
 ####   Sobre mim: <br>
