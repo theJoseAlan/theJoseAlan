@@ -7,7 +7,8 @@
 - 😄 Pronouns: Ele/Dele
 ---
 ####   Sobre mim: <br>
-Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão por tecnologia. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Em 2022, participei da academia 1000Devs, onde expandi meu conhecimento técnico e desenvolvi habilidades pessoais. Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
+Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão por tecnologia. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Em 2022, participei da academia 1000Devs, onde expandi meu conhecimento técnico e desenvolvi habilidades pessoais. Atualmente participo da academia de desenvolvedores Backend Javascript na Cubos Academy, além de hardskills treinamos também softskills, juntando nossos conhecimentos em cada final de módulo e aplicando nos desafios propostos.
+Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
 
 ---
 <p align="center">
@@ -22,15 +23,20 @@ Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosida
 
   <img align="center" alt="Alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-
   <img align="center" alt="Alan-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> - 
-  <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -
+  <img align="center" alt="Alan-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 * Java:
   - [x] P.O.O
   - [x] JDBC
   - [x] Maven
   - [x] Hibernate
   - [x] JPA
-  - [x] Spring
+  - [x] Spring Boot
+  - [x] Spring Cloud
+  - [x] Spring Security
   - [x] JUnit
+  - [x] Microservices
+  - [x] Docker
 ---
 **--------------🛠 Ferramentas 🛠--------------**
 <div style="display: inline_block">
@@ -47,6 +53,6 @@ Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosida
   <b>---------------☎ Contatos 📱---------------</b>
 <div> 
   <a href = "mailto:salesalan854@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-sales-084ab9218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/thejosealan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
