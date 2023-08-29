@@ -25,7 +25,7 @@ Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida 
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -
   <img align="center" alt="Alan-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-## Tecnologias
+## 🤖 Tecnologias
   <img align="center" alt="Alan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> -
   <img align="center" alt="Alan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> -
   <img align="center" alt="Alan-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"> -
