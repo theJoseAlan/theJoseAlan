@@ -48,6 +48,10 @@ Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida 
   <img align="center" alt="Alan-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Alan-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Alan-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/117518719/209007231-e06026fd-26ce-4765-a08d-7f34548d16f5.svg">
+  <img align="center" alt="Alan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Alan-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+
+  
   </div>
 <br>
   <b>---------------☎ Contatos 📱---------------</b>
