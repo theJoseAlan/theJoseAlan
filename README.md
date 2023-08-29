@@ -26,13 +26,14 @@ Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida 
   <img align="center" alt="Alan-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 ## Tecnologias
-  <img align="center" alt="Alan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Alan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Alan-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
-  <img align="center" alt="Alan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Alan-NodeJs" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Alan-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
+  <img align="center" alt="Alan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> -
+  <img align="center" alt="Alan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> -
+  <img align="center" alt="Alan-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"> -
+  <img align="center" alt="Alan-Maven" height="30" width="40" src="https://github.com/theJoseAlan/theJoseAlan/assets/117518719/fff2d015-44c5-448d-a6cf-9a18f5a35c6a"> -
+  <img align="center" alt="Alan-JUnit" height="30" width="40" src="https://github.com/theJoseAlan/theJoseAlan/assets/117518719/796ea417-e6a2-4e6b-8092-a95ce9c9ec79"> -
+  <img align="center" alt="Alan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -
+  <img align="center" alt="Alan-Npm" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"> -
+  <img align="center" alt="Alan-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
 
 ## ⚙ Ferramentas
 <div style="display: inline_block">
