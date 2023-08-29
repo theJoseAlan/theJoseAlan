@@ -19,34 +19,31 @@ Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida 
 </p>
 
 
-------------🧐 Habilidades 🤓--------------
+## 👨🏿‍💻 Linguagens
 
-  <img align="center" alt="Alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-
-  <img align="center" alt="Alan-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> - 
+  <img align="center" alt="Alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -
   <img align="center" alt="Alan-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-* Java:
-  - [x] P.O.O
-  - [x] JDBC
-  - [x] Maven
-  - [x] Hibernate
-  - [x] JPA
-  - [x] Spring Boot
-  - [x] Spring Cloud
-  - [x] Spring Security
-  - [x] JUnit
-  - [x] Microservices
-  - [x] Docker
----
-**--------------🛠 Ferramentas 🛠--------------**
+
+## Tecnologias
+  <img align="center" alt="Alan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Alan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Alan-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
+  <img align="center" alt="Alan-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Alan-NodeJs" height="30" width="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Alan-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+
+## ⚙ Ferramentas
 <div style="display: inline_block">
   <img align="center" alt="Alan-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Alan-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/117518719/209007065-a8b7e40b-19b3-4695-84b7-fb690e8b5ef7.svg">
+   <img align="center" alt="Alan-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alan-Opera" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opera/opera-original.svg">
-  <img align="center" alt="Alan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Alan-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Alan-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Alan-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Alan-JetBrains" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"">
   <img align="center" alt="Alan-GitHub" height="30" width="40" src="https://user-images.githubusercontent.com/117518719/209007231-e06026fd-26ce-4765-a08d-7f34548d16f5.svg">
   <img align="center" alt="Alan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Alan-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
