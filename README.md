@@ -8,7 +8,7 @@
 ---
 ####   Sobre mim: <br>
 Sou um jovem piauiense apaixonado por tecnologia desde criança. Minha curiosidade me levou a explorar aparelhos eletrônicos e, mesmo sem acesso à internet, descobri minha paixão por tecnologia. Através de cursos e projetos, aprimorei minhas habilidades em diversas linguagens, especialmente Java. Em 2022, participei da academia 1000Devs, onde expandi meu conhecimento técnico (estudando Java) e desenvolvi habilidades pessoais. Em 2023, participei da academia de desenvolvedores Backend Javascript na Cubos Academy, além de hardskills treinamos também softskills, juntando nossos conhecimentos em cada final de módulo e aplicando nos desafios propostos.
-Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas que amo através da programação.
+Agora, estou pronto para iniciar minha carreira e impactar positivamente a vida das pessoas através da programação.
 
 ---
 <p align="center">
